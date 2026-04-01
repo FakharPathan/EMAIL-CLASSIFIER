@@ -1,20 +1,21 @@
-*Email Classification System
-By Arslan Ahmad Janjua
+Email Classification System
+By Fakhar Masood
 
-*Overview
-This project classifies emails as Spam or Not Spam.
+Overview
+This project is designed to categorize emails into two groups: Spam and Non-Spam.
 
-*Files
-- `Email Classifying Project by Arslan Ahmad.ipynb` - Main notebook
-- `app.py` - Streamlit web app
-- `main.py` - Main script
-- `model.pkl` - Trained model
-- `vectorizer.pkl` - Text vectorizer
+Project Files
 
-*Technologies Used
-- Python
-- Pandas
-- Scikit-learn
-- Streamlit
-- Jupyter Notebook
+Email Classifying Project by Arslan Ahmad.ipynb – Primary notebook containing the implementation
+app.py – Web application built using Streamlit
+main.py – Core execution script
+model.pkl – Saved trained machine learning model
+vectorizer.pkl – Stored text vectorization model
 
+Technologies Utilized
+
+Python
+Pandas
+Scikit-learn
+Streamlit
+Jupyter Notebook
